@@ -1,16 +1,16 @@
-# nmproject
----
 
-# 🛍️ Product Catalog with Filters
 
-## 📘 Description
+
+#  Product Catalog with Filters
+
+##  Description
 
 A **Product Catalog with Filters** allows users to browse, search, and filter products easily based on different attributes like **category, price, brand, size, color, and rating**.
 It’s commonly used in e-commerce websites to help users find what they want quickly.
 
 ---
 
-## ⭐ Features
+##  Features
 
 * Display list/grid of products with images, name, price, and description
 * Filter products by category, price range, brand, color, etc.
@@ -22,7 +22,7 @@ It’s commonly used in e-commerce websites to help users find what they want qu
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 **Frontend:** React.js / Vue.js / Angular, HTML, CSS, JavaScript
 **Backend:** Node.js (Express) / Django / Laravel
@@ -33,7 +33,7 @@ It’s commonly used in e-commerce websites to help users find what they want qu
 
 ---
 
-## 🔍 How It Works
+##  How It Works
 
 1. Product data is stored in a database.
 2. The frontend calls an API to fetch product data.
