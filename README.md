@@ -43,7 +43,7 @@ It’s commonly used in e-commerce websites to help users find what they want qu
 
 ---
 
-## ⚠️ Challenges
+##  Challenges
 
 * Handling large datasets efficiently
 * Managing multiple filter combinations
